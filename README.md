@@ -1,4 +1,3 @@
 # Fig
 
-Fig (or figl, figlang) is an experimental programming language made in C.\
-This project is built with the goal of learning and understanding how programming languages work.
+Fig is an experimental operating system created to learn low-level programming and how systems work.
